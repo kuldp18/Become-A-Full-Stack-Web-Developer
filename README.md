@@ -293,7 +293,6 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
   * [Coding Game](https://www.codingame.com)
   * [Elevator Saga - JS](http://play.elevatorsaga.com/)
   * [Scratch - Absolute Basics](https://scratch.mit.edu/)
-  * [Hacked - Mobile App teaching through puzzles](http://www.hackedapp.com/)
 
 * Coding Challenge Websites [[Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/5oxwjj/any_good_sitesapps_for_small_coding_exercises/) [[Reddit Link #2]](https://www.reddit.com/r/learnprogramming/comments/5g3xgi/anyone_knows_the_name_of_a_website_to_learn_to/)
   * [Medium - 10 most popular coding challenge sites of 2016](https://medium.com/coderbyte/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f#.fn8c7imvk)
